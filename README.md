@@ -19,7 +19,7 @@ This repository contains the code for a **Medical Boolean Query Generator**. Thi
 - **Query Generation**: Automates the creation of boolean queries based on user input.
 - **Medical Terminology Handling**: Incorporates medical terms and synonyms to broaden search scope.
 - **Interactive User Interface**: Uses Gradio for a user-friendly experience.
-- **Text to Audio supporting**
+- **Text-to-Audio Conversion**: Provides audio feedback of generated queries, enhancing accessibility and user engagement.  
 
 ## Project Structure
 - `Justice_League_Final.ipynb`: Jupyter Notebook containing the full implementation of the boolean query generator.
