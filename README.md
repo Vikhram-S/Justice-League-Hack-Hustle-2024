@@ -32,17 +32,21 @@ This repository contains the code for a **Medical Boolean Query Generator**. Thi
 2. Install the required packages:
 `pip install -r requirements.txt`
 3. Open and run the Jupyter Notebook or execute the Gradio app.
-# Technologies Used  
+# Techstack Used  
 - Python 
 - Natural Language Processing (NLP) with NLTK and SpaCy  
 - Gradio
 - GttS (Google Text to Speech)
-- Google Colab  
+- Google Colab
+- 
+# Dataset : 
+`https://huggingface.co/datasets/jackf7499/MIMIC-IV-Ext_Triage_Instruction_Corpus/blob/main/MIETIC_v1.csv`
+
 # Use Cases   
 - Systematic Reviews   
 - Medical Research    
 - Literature Search Optimization    
-#Acknowledgments
+# Acknowledgments
 - The medical research communities for providing valuable dataset insights that helped shape the development of this project.  
 
 
