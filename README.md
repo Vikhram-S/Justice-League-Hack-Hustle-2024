@@ -35,7 +35,9 @@ This repository contains the code for a **Medical Boolean Query Generator**. Thi
 # Technologies Used  
 - Python 
 - Natural Language Processing (NLP) with NLTK and SpaCy  
-- Gradio for UI  
+- Gradio
+- GttS (Google Text to Speech)
+- Google Colab  
 # Use Cases   
 - Systematic Reviews   
 - Medical Research    
