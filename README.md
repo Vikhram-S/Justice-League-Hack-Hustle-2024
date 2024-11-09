@@ -40,7 +40,7 @@ This repository contains the code for a **Medical Boolean Query Generator**. Thi
 - Systematic Reviews   
 - Medical Research    
 - Literature Search Optimization    
-# Acknowledgments   
-- Medical research communities for dataset insights
-- shell
+#Acknowledgments
+- The medical research communities for providing valuable dataset insights that helped shape the development of this project.  
+
 
