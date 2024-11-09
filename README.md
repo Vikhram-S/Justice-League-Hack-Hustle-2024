@@ -26,8 +26,8 @@ This repository contains the code for a **Medical Boolean Query Generator**. Thi
 - Gradio for UI  
 # Use Cases   
 - Systematic Reviews   
--Medical Research    
--Literature Search Optimization   
+- Medical Research    
+- Literature Search Optimization    
 # Acknowledgments   
 - Medical research communities for dataset insights
 - shell
